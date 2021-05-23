@@ -1,0 +1,25 @@
+@media(max-width: 1000px){
+	#contenedor_comandos{
+		margin-top: -10vh;
+	}
+
+#sp1{
+	margin-bottom: 20vh;
+}
+
+@media(max-width: 1000px){
+	#contenedor_comandos li{
+	width: auto;
+	font-size: 10px;
+}
+
+#contenedor_cuerpo1 p{
+	font-size: 15px;
+}
+}
+
+@media(max-width: 400px){
+	#contenedor_cabecera #zuckperfil{
+		display: ;
+	}
+}
