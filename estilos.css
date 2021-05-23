@@ -17,10 +17,10 @@ body{
 
 #contenedor_cabecera h2{
 	font: arial;
+	font-size: 210%;
 	font-weight: bold;
 	cursor: pointer;
-	font-size: 17px;
-	margin-top: 35px;
+	margin-top: 40px;
 	color: white;
 	float: left;
 }
