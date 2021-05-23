@@ -16,7 +16,7 @@ body{
 }
 
 #contenedor_cabecera h2{
-	font: oblique bold 200% cursive;
+	font: arial;
 	font-weight: bold;
 	cursor: pointer;
 	margin-top: 35px;
